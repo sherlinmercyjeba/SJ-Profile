@@ -1,6 +1,6 @@
 # SJ-Profile
 
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm [Sherlin Mercy Jeba]</h1>
 <h3 align="center">
 🌐 Project Manager | Aspiring Full Stack AI Developer | Passionate Problem Solver | Building 
 Modern Web Experiences
